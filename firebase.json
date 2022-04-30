@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "not-the-real-netflix",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
